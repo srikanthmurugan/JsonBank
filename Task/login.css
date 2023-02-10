@@ -1,0 +1,30 @@
+
+        form{
+            width: 600px;
+            margin: 200px auto;
+        }
+        div{
+            width: 100%;
+            margin: 15px auto;
+        }
+        label
+        {
+            display: block;
+            padding: 20px;
+            font-size: 25px;
+        }
+        input{
+            width: 96%;
+            padding: 10px;
+            border: 1px solid #797979;
+            font-size: 20px;margin-left: 20px;
+            border-radius: 3px;
+            margin-top: 20px;
+        }
+        button{
+            margin-top: 20px;
+            border-radius: 5px;
+            padding: 10px;
+        }
+        
+    
